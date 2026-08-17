@@ -19,11 +19,11 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 
 🎓 Computer Science graduate with a strong interest in software development and problem solving.
 
-💻 Currently strengthening my skills in **C++, Java, DSA and Computer Science fundamentals**.
+💻 Currently strengthening my skills in **C++, Java, DSA and software development**.
 
 🤖 Interested in **Artificial Intelligence, Machine Learning and practical software projects**.
 
-🚀 I enjoy learning by building projects and documenting my progress.
+🚀 I enjoy learning by building projects and improving my technical skills.
 
 🎥 I also create content around **technology, learning and personal growth**.
 
@@ -34,7 +34,6 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 - 💻 Improving **C++ and Data Structures & Algorithms**
 - ☕ Learning **Java and Collection Framework**
 - 🤖 Exploring **AI/ML and NLP**
-- 🧠 Strengthening **DBMS, Operating Systems and Computer Networks**
 - 🚀 Building projects to improve my software development skills
 - 🎥 Creating educational and self-growth content
 
@@ -48,12 +47,15 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 <a href="https://isocpp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </a>
+
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
 </a>
+
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
+
 <a href="https://www.java.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 </a>
@@ -65,15 +67,19 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </a>
+
 <a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 </a>
+
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
 </a>
@@ -85,6 +91,7 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 </a>
+
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
 </a>
@@ -96,9 +103,11 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </a>
+
 <a href="https://numpy.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
 </a>
+
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
 </a>
@@ -110,9 +119,11 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </a>
+
 <a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </a>
@@ -225,18 +236,10 @@ View Project →
 
 ---
 
-# 🔥 Contribution & Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shrutikadubey&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutikadubey&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
@@ -254,32 +257,6 @@ View Project →
 </a>
 
 </p>
-
----
-
-# 📚 Computer Science Fundamentals
-
-I'm currently strengthening my understanding of:
-
-- 🧮 Data Structures & Algorithms
-- 🖥️ Operating Systems
-- 🗄️ Database Management Systems
-- 🌐 Computer Networks
-- 🧱 Object-Oriented Programming
-- 💻 Computer Organization
-- ☕ Java & Collection Framework
-
----
-
-# 🎯 2026 Goals
-
-- [ ] Strengthen C++ and DSA
-- [ ] Solve more coding problems consistently
-- [ ] Build production-quality projects
-- [ ] Improve Java and software development skills
-- [ ] Strengthen core Computer Science concepts
-- [ ] Contribute to open-source projects
-- [ ] Build a strong software development portfolio
 
 ---
 
