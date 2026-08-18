@@ -29,15 +29,6 @@ Computer Science Graduate | C++ | DSA | AI/ML | Software Development
 
 ---
 
-## 🔭 What I'm Currently Working On
-
-- 💻 Improving **C++ and Data Structures & Algorithms**
-- ☕ Learning **Java and Collection Framework**
-- 🤖 Exploring **AI/ML and NLP**
-- 🚀 Building projects to improve my software development skills
-- 🎥 Creating educational and self-growth content
-
----
 
 ## 🛠️ Tech Stack
 
@@ -227,13 +218,16 @@ View Project →
 
 ---
 
-# 🔥 GitHub Streak
+## 🔭 What I'm Currently Working On
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shrutikadubey&hide_border=true" alt="GitHub Streak"/>
-</p>
+- 💻 Improving **C++ and Data Structures & Algorithms**
+- ☕ Learning **Java and Collection Framework**
+- 🤖 Exploring **AI/ML and NLP**
+- 🚀 Building projects to improve my software development skills
+- 🎥 Creating educational and self-growth content
 
 ---
+
 
 # 💻 Coding Profiles
 
